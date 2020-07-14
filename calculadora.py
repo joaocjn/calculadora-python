@@ -1,3 +1,6 @@
+#função: Realizar operações básicas como adição, subtração, multiplicação e divisão
+#autor: João Cândido
+
 #definir função
 def calculate():
     operação = input('''
